@@ -25,3 +25,7 @@ samples, guidance on mobile development, and a full API reference.
     - Mac: ⌘ + Option + W
 
 3. Give your new widget a name and confirm.
+
+# To get packages
+
+https://pub.dev/packages
